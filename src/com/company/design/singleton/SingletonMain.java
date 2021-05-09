@@ -1,10 +1,10 @@
-package com.company.design;
+package com.company.design.singleton;
 
 import com.company.design.singleton.AClass;
 import com.company.design.singleton.BClass;
 import com.company.design.singleton.SocketClient;
 
-public class Main {
+public class SingletonMain {
 
     public static void main(String[] args) {
 
